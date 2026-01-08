@@ -2,13 +2,13 @@
 
 
 
-\*\*Student Name:Venkata Satya Bhaskar Bezawada  
+Student Name:Venkata Satya Bhaskar Bezawada  
 
-\*\*Student ID:25072073  
+Student ID:25072073  
 
-\*\*Email: venkatbezawada1999@gmail.com
+Email: venkatbezawada1999@gmail.com
 
-\*\*Date: 07-Jan-2026
+Date: 07-Jan-2026
 
 
 
